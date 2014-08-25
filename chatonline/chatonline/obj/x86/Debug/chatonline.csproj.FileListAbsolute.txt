@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\chatonline\chatonline\obj\x86\Debug\chatonline.FrmMain.resources
+C:\Users\Student\Desktop\chatonline\chatonline\obj\x86\Debug\chatonline.Properties.Resources.resources
+C:\Users\Student\Desktop\chatonline\chatonline\obj\x86\Debug\chatonline.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\chatonline\chatonline\bin\Debug\chatonline.exe
+C:\Users\Student\Desktop\chatonline\chatonline\bin\Debug\chatonline.pdb
+C:\Users\Student\Desktop\chatonline\chatonline\obj\x86\Debug\chatonline.exe
+C:\Users\Student\Desktop\chatonline\chatonline\obj\x86\Debug\chatonline.pdb
